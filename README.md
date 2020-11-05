@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+![SESBASENet logo](https://www.uco.es/investigacion/proyectos/SEBASENet/images/LogoSEBASENet.png)
 
-You can use the [editor on GitHub](https://github.com/SEBASENet/SEBASENet.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to SEBASENet on Github
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SEBASENet is the spanish Network of Excellence in Search Based Software Engineering (SBSE), which brings together the Spanish research groups working in SBSE.
+Search Based Software Engineering (SBSE) arises from the synergies between software engineering and other areas, such as optimization and search. Its main objective is the application of this type of techniques to the resolution of complex software engineering problems, offering the engineer better solutions to existing problems, while reducing the effort and cost required.
 
-### Markdown
+In this Github organization you will find links and  repositories for source code and datasets created by the members of SEBASENet.
+The offical SEBASENet web page is available [here](https://www.uco.es/investigacion/proyectos/SEBASENet/index.php?title=P%C3%A1gina_principal).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Links to repositories of SEBASENet members:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SEBASENet/SEBASENet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
