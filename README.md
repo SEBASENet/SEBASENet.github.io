@@ -10,7 +10,7 @@ The offical SEBASENet web page is available [here](https://www.uco.es/investigac
 
 ## Tools and services developed by SEBASENet members:
 
-* [https://exemplar.us.es](EXEMPLAR): is a platform for the publication and tracking of experimental materials. It also integrates tools and allows the generation of descriptions of the experiments with the appropriate level of detail so that they can be replicated by other researchers.
+* [EXEMPLAR](https://exemplar.us.es): is a platform for the publication and tracking of experimental materials. It also integrates tools and allows the generation of descriptions of the experiments with the appropriate level of detail so that they can be replicated by other researchers.
 
 * GAmera: is an open-source WS-BPEL mutation testing framework which uses genetic algorithms to reduce the number of mutants required.
 
